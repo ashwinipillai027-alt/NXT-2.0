@@ -1,0 +1,6 @@
+{
+  "name": "NXT — Executive Intelligence Interface",
+  "description": "Intelligence-grade workstation calibrated for market foresight, frontier analysis, and structural problem discovery from online communities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
